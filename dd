@@ -1,0 +1,18 @@
+
+Download jenkins windows
+
+CMD map teh war file
+
+java -jat jenkins.war
+
+localhost:8080
+
+Mangae jenkins,
+add JDK
+Java JDK path
+
+Add Git and give git.exe path which is installed
+
+Download and add Maven apache binary chip
+
+Add prugin in available tab in manage jenkins
